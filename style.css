@@ -307,6 +307,7 @@ h2.secondary__heading {
 }
 .meals__content {
   padding: 0.5em;
+  text-align:center;
 }
 .tags {
   padding: 0.5em 0;
@@ -341,7 +342,7 @@ h2.secondary__heading {
 .meals li,
 .diet li {
   padding: 1em;
-  text-align: center;
+  
 }
 .diet li::before {
   content: "\2713";
